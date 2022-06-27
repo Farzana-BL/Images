@@ -7,4 +7,4 @@
   src="/Images/img/PymongoInstall.png"
   title="PYMONGO"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-![alt text](https://github.com/[Farzana-BL]/[Images]/img/blob/[img]/PymongoInstall.png?raw=true)
+![HELLO](https://github.com/Farzana-BL/Images/blob/b5b09f762f51cb4009b7e65415d2d7499268c076/img/PydnsInstall.png)
