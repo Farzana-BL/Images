@@ -4,6 +4,6 @@
   title="PYMONGO"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <img
-  src="/images/Images/img/PymongoInstall.png"
+  src="/Images/img/PymongoInstall.png"
   title="PYMONGO"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
